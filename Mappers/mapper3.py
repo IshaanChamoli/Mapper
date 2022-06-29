@@ -1,3 +1,6 @@
+# https://github.com/gmplot/gmplot/wiki/GoogleMapPlotter.directions
+# supposed to show same path as above link. The map opens at that spot, but route not showing
+
 import gmplot
 apikey = '' # (your API key here)
 gmap = gmplot.GoogleMapPlotter(37.766956, -122.438481, 13)
