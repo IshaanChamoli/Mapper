@@ -1,3 +1,6 @@
+# https://towardsdatascience.com/simple-gps-data-visualization-using-python-and-open-street-maps-50f992e9b676
+# creating paths for the old map, but same route is getting printed on changing the map to a delhi one.. not sure where to change coordinates
+
 from gps_class import GPSVis
 
 vis = GPSVis(data_path='data.csv',
