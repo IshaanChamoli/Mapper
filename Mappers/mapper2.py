@@ -1,3 +1,5 @@
+# Creating a straight line from one point to another... not using the actual routes
+
 import gmplot
 
 lat = [28.5731, 28.4592 ]
